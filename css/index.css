@@ -13,3 +13,9 @@
 }
 }
 
+@media (max-width: 1000px){
+    .site-logo{
+        max-width:20%;
+    }
+}
+
