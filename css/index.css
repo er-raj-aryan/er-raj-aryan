@@ -1,0 +1,10 @@
+@media (max-width: 410px){
+.home .content_wwd {   
+    padding-top: 100px !important;  
+}
+
+.home .content_clients .content_logos:last-child {  
+    height:300px !important;
+}
+}
+
