@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,QACE,qBAAuB,CACvB,iBAAkB,CAClB,YACF","file":"main.46dec719.chunk.css","sourcesContent":[".submit {\r\n  background-color: black;\r\n  border-radius: 5px;\r\n  padding: 20px;\r\n}\r\n"]}
