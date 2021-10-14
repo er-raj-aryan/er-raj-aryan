@@ -1,71 +1,26 @@
-@media (min-width: 1024px){
-    .top-navbar{
-        display: inline-flex !important;
+@media (max-width: 425px){
+    .home .content_wwd {   
+        padding-top: 100px !important;  
     }
-}
-
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
-
-.navbar{
-    width: 100%;
-    position: fixed;
-    backdrop-filter: blur(2px);
-    z-index: 100;
-}
-.main{
-    background-image: url(../img/background.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 100vh;
-    width: 100%;
-}
-
-.main-list{
-    color: white;
-    padding-top: 40vh;
-    height: 100vh;
-    text-align: center;
-    width: 100%;
-  
-}
-
-body{
-    font-family: 'Poppins', sans-serif !important;  
-}
-
-.header th{
-    color:rgba(15, 14, 14, 0.904)  !important;
-    font-family: 'Poppins', sans-serif !important;  
-    font-weight: 800;
-}
-#table-data{
-    color:rgba(71, 69, 69, 0.822);
-    /* margin:10px; */
-    font-family: 'Poppins', sans-serif !important;
-    font-weight: 700;
-    /* border: 1px solid rgb(226, 225, 223); */
-    border-radius: 10px;
-    background: rgba(238, 236, 236, 0.972);
-    user-select: none;
-}
-
-#pinCode{
-    width:25vh;
-    outline: none;
-    font-family: 'Poppins', sans-serif;
-    border-top: 1px solid rgb(226, 225, 223);
-    border-left: 1px solid rgb(226, 225, 223);
-    background: rgba(255, 255, 255, 0.883);
-}
-
-.btn{
-    width:15vh;
-    margin-left: 20px;
-    outline: none;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 700;
-}
-
-.pop-font{
-    font-family: 'Poppins', sans-serif !important;
-}
+    
+    .home .content_clients .content_logos:last-child {  
+        height:300px !important;
+    }
+    .content_contact.show .form {
+        padding: 20px !important;
+        margin-bottom: 40px !important;
+        height: 450px !important;
+    }
+    }
+    
+    @media (max-width: 1000px){
+        .site-logo{
+            max-width:20%;
+        }
+        .logos_01{
+            height:350px;
+        }
+        .home .content_team {
+            padding: 10px 0 0;
+        }   
+    }
