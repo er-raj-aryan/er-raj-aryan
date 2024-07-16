@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **ReactJS,NEXTJS, NODEJS, ExpressJS, GIT, Sequlizer**
 
-- 📫 How to reach me **raj267447@gmail.com**
+- 📫 How to reach me **raj.aryan3831@gmail.com || developer.rajaryan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
