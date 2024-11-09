@@ -1,0 +1,26 @@
+@media (max-width: 425px){
+    .home .content_wwd {   
+        padding-top: 100px !important;  
+    }
+    
+    .home .content_clients .content_logos:last-child {  
+        height:300px !important;
+    }
+    .content_contact.show .form {
+        padding: 20px !important;
+        margin-bottom: 40px !important;
+        height: 450px !important;
+    }
+    }
+    
+    @media (max-width: 1000px){
+        .site-logo{
+            max-width:20%;
+        }
+        .logos_01{
+            height:350px;
+        }
+        .home .content_team {
+            padding: 10px 0 0;
+        }   
+    }
