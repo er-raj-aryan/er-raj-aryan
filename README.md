@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working for ZebraLearn **Software Development Engineer**
 
-- 💬 Ask me about **ReactJS,NEXTJS, NODEJS, ExpressJS, GIT, Sequlizer**
+- 💬 Ask me about **ReactJS,NEXTJS, NODEJS, ExpressJS, MONGODB, GIT, Sequlizer**
 
 - 📫 How to reach me **raj.aryan3831@gmail.com || developer.rajaryan@gmail.com**
 
