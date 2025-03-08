@@ -513,7 +513,7 @@
                                             <a href="https://clone-aeb05.web.app" target="_blank" data-page="project" data-id="1"  class="title all_projects  animation_txt nav ">Amazon Clone</a><p class="animation_txt">&nbsp; &nbsp;&nbsp; &nbsp;(React)&nbsp;Cheakout Project <img src="https://img.icons8.com/metro/26/ffffff/long-arrow-up.png"/></p>
                                         </div>
                                         <div class="mask">
-                                            <a href="https://www.covid19help.tk" target="_blank" data-page="project" data-id="1"  class="title all_projects  animation_txt nav ">Covid-19 Helpdesk</a><p class="animation_txt" >(HTML||css||Javascript)&nbsp;Cheakout Project <img src="https://img.icons8.com/metro/26/ffffff/long-arrow-up.png"/></p>
+                                            <a href="https://er-raj-aryan.github.io/coronahelp.github.io/" target="_blank" data-page="project" data-id="1"  class="title all_projects  animation_txt nav ">Covid-19 Helpdesk</a><p class="animation_txt" >(HTML||css||Javascript)&nbsp;Cheakout Project <img src="https://img.icons8.com/metro/26/ffffff/long-arrow-up.png"/></p>
                                         </div>
                                         <!--Paragraph-->
                                         <!-- <div class="mask">
@@ -660,13 +660,15 @@
 <!-- message deliver section -->
 <script>
     //https://script.google.com/macros/s/AKfycbzx4sLhnxzf7STOPa4j1O-1hfQewQXVF3ckCtBidEcuOfltRtwxJnASH0hF1-fQnS5l/exec
-            const scriptURL = 'https://script.google.com/macros/s/AKfycbzx4sLhnxzf7STOPa4j1O-1hfQewQXVF3ckCtBidEcuOfltRtwxJnASH0hF1-fQnS5l/exec'
+            const scriptURL = 'https://script.google.com/macros/s/AKfycbxmBeda1UPf4yvMdavz0KkrlP8ud7gVb8gJ-gV2ivbRvhHfnHzip0hLJxKrXdBGEyKs/exec'
             const form = document.forms['google-sheet']
           
             form.addEventListener('submit', e => {
               e.preventDefault()
               fetch(scriptURL, { method: 'POST', body: new FormData(form)})
-                .then(response => swal("Thank You!", "Your message was sent, I will contact you as soon as possible", "success").then((e)=>{window.location.href='https://www.rajaryan.tk'}))
+                .then(response => swal("Thank You!", "Your message was sent, I will contact you as soon as possible", "success").then((e)=>{
+                    // window.location.href='https://errajaryan.in'
+                    }))
                 .catch(error => console.error('Error!', error.message))
             })
 </script>
