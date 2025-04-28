@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Er Raj Aryan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working for Advanced Structures India **Software Development Engineer**
+- 🔭 I’m currently working for Advanced Structures India **Senior Software Development Engineer**
 
 - 💬 Ask me about **ReactJS,NEXTJS, NODEJS, ExpressJS, MONGODB, GIT, Sequlizer**
 
