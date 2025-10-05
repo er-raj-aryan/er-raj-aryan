@@ -82,3 +82,7 @@
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" style="margin-right: 10px; border-bottom: none;"/>
     </a>
 
+
+<h3 align="left">Badge:</h3>
+    [![An image of @errajaryan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/errajaryan)](https://holopin.io/@errajaryan)
+
